@@ -1,0 +1,22 @@
+T4	Change 386 396	Changes in
+E2	Change:T4 Theme:T5
+T5	Variable 397 441	the magnitude of total and export production
+T6	Variable 465 487	atmospheric CO2 levels
+T9	Change 455 464	influence
+E5	Change:T9 Agent:E2 Theme:T6
+T12	Change 1311 1321	changes in
+E7	Change:T12 Theme:T13
+T13	Variable 1322 1365	radiative forcing on the hydrological cycle
+T16	Change 1373 1383	influences
+E9	Change:T16 Agent:E7 Theme:T1
+T17	Change 1420 1427	affects
+E10	Change:T17 Agent:T1 Theme:E1
+T18	Variable 1428 1445	nitrogen fixation
+T1	Variable 1384 1405	the aeolian iron flux
+T2	Variable 1450 1482	primary production in the oceans
+T3	And 1446 1449	and
+E1	And:T3 Part:T18 Part2:T2
+T7	Variable 11 37	oceanic primary production
+T8	Change 0 10	Changes in
+E3	Change:T8 Theme:T7
+#1	AnnotatorNotes T13	Too abstract for a variable?

@@ -1,0 +1,5 @@
+T1	Decrease 43 73	results in extraordinarily low
+E1	Decrease:T1 Theme:T2 Agent:T3
+T2	Variable 74 108	concentrations in surface seawater
+#1	AnnotatorNotes T2	The reconstruction "concentrations of essential metals" would be hard to make...
+T3	Variable 0 42	Planktonic uptake of some essential metals
