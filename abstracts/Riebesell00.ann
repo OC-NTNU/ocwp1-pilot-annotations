@@ -14,7 +14,7 @@ T14	Increase 614 623	increased
 E9	Increase:T14 Theme:T15
 T15	Variable 624 642	CO2 concentrations
 T16	RefExp 792 796	This
-R2	Coref Expression:T16 Antecedent:E11	
+R2	Coref Expression:T16 Antecedent:E8	
 T17	Increase 819 828	increased
 E10	Increase:T17 Theme:T18
 T18	Variable 829 891	proportion of malformed coccoliths and incomplete coccospheres

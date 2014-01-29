@@ -11,17 +11,17 @@ T13	And 983 986	and
 E8	And:T13 Part:E7 Part2:E1
 T1	Increase 987 993	higher
 E1	Increase:T1 Theme:T11
-T2	Cause 849 876	had a substantial effect on
-E2	Cause:T2 Theme:T3 Agent:E10
+T2	Change 849 876	had a substantial effect on
+E2	Change:T2 Theme:T3 Agent:E10
 T3	Variable 877 902	phytoplankton growth rate
 T4	Variable 833 837	iron
-T5	Variable 1580 1595	iron enrichment
+T5	Variable 1580 1584	iron
 T10	Variable 1539 1563	the phytoplankton growth
 T14	Variable 1503 1534	the photoreduction of iron(III)
 T15	And 1535 1538	and
 E3	And:T15 Part:T14 Part2:T10
 T16	Cause 1568 1579	affected by
-E6	Cause:T16 Agent:T5 Theme:E3
+E6	Cause:T16 Theme:E3 Agent:E12
 T17	Increase 1365 1373	addition
 E9	Increase:T17 Theme:T18
 T18	Variable 1360 1364	FeGA
@@ -33,3 +33,5 @@ T20	Change 1386 1393	changes
 E11	Change:T20 Agent:E9 Theme:T21
 T21	Variable 1394 1450	the harmful effect of UV on the phytoplankton population
 #3	AnnotatorNotes T21	Questionable: Isn't this too abstract for a variable!?
+T22	Increase 1585 1595	enrichment
+E12	Increase:T22 Theme:T5
