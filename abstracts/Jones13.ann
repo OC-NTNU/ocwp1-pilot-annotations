@@ -32,8 +32,8 @@ E11	Increase:T21 Theme:T25
 T22	Variable 1024 1038	CO2 conditions
 T23	Increase 1019 1023	high
 E12	Increase:T23 Theme:T22
-T24	Thing 1040 1052	coccospheres
-T25	Thing 1092 1102	coccoliths
+T24	Variable 1040 1052	coccospheres
+T25	Variable 1092 1102	coccoliths
 T26	And 1065 1068	and
 E13	And:T26 Part:E10 Part2:E11
 T27	Change 1212 1229	No differences in
@@ -53,7 +53,7 @@ T34	Variable 1720 1731	growth rate
 T35	Correlate 959 964	under
 E18	Correlate:T35 Theme:E5 Co-theme:E6
 T36	Correlate 1013 1018	Under
-E19	Correlate:T36 Co-theme:E13 Theme:E12
+E19	Correlate:T36 Theme:E13 Co-theme:E12
 #1	AnnotatorNotes T3	acidification ==> decrease in Ph 
 #2	AnnotatorNotes E4	Is "higher" a state or an event? Same for "more". Anyway, we like to extract the correlation: +CO2 <~~~> +CaCO3  
 #3	AnnotatorNotes T10	"cells grew" = "cell growth" ?
@@ -62,3 +62,5 @@ E19	Correlate:T36 Co-theme:E13 Theme:E12
 T37	Variable 1550 1622	four (histones H2A, H3, H4 and a chloroplastic 30S ribosomal protein S7)
 T38	Correlate 1693 1703	reflecting
 E20	Correlate:T38 Theme:E7 Co-theme:E17
+#6	AnnotatorNotes T24	Although Cocospheres are not a quantity, they are counted as variables because the changing property (i.e size) is implied by  the predicate (i.e. "larger"). the
+#7	AnnotatorNotes T25	Although Cocolithes are not a quantity, they are counted as variables because the changing property (i.e size) is implied by  the predicate (i.e. "larger").

@@ -17,7 +17,7 @@ T11	Variable 741 761	extra organic carbon
 T12	Increase 762 773	accumulated
 E5	Increase:T12 Theme:T11
 T13	Correlate 680 684	When
-E6	Correlate:T13 Theme:E4 Co-theme:E5
+E6	Correlate:T13 Theme:E5 Co-theme:E4
 #2	AnnotatorNotes E6	Can correlation be expressed through "when"?
 T14	Increase 844 855	addition of
 E7	Increase:T14 Theme:T15
@@ -45,7 +45,7 @@ T24	Variable 794 802	bacteria
 T25	Decrease 803 818	were limited by
 E12	Decrease:T25 Theme:T24
 T30	Correlate 789 793	When
-E13	Correlate:T30 Theme:E12 Co-theme:E8
+E13	Correlate:T30 Theme:E8 Co-theme:E12
 T2	Variable 940 990	the rate at which total organic carbon accumulated
 T29	And 931 939	and also
 E15	And:T29 Part:T17 Part2:T2

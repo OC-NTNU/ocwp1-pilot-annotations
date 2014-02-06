@@ -22,3 +22,4 @@ T13	Variable 668 690	average coccolith mass
 T14	Increase 796 802	rising
 E7	Increase:T14 Theme:T15
 T15	Variable 803 836	atmospheric CO2 partial pressures
+#1	AnnotatorNotes T3	Role is not a change event, but suggests change in Ph

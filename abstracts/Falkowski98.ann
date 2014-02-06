@@ -20,3 +20,4 @@ T7	Variable 11 37	oceanic primary production
 T8	Change 0 10	Changes in
 E3	Change:T8 Theme:T7
 #1	AnnotatorNotes T13	Too abstract for a variable?
+#2	AnnotatorNotes T1	Agent is not an event but a variable
